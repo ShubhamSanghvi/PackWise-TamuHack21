@@ -1,0 +1,7 @@
+food,food
+fluid,liquid
+liquid,liquid
+electronics,electronics
+electronic,electronics
+tools,tools
+tool,tools
